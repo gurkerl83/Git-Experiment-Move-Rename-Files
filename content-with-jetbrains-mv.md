@@ -1,0 +1,3 @@
+# Original content - file content-with-jetbrains-mv.md
+
+This is the original text...

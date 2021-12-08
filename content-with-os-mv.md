@@ -1,0 +1,3 @@
+# Original content - file content-with-os-mv.md
+
+This is the original text...
